@@ -1,6 +1,6 @@
 # GitHub Copilot Commits
 
-We will use this project to demonstrate the use of GitHub Copilot for generating code commits.
+We will use this project to demonstrate the use of GitHub Copilot for generating code commits / pull request summary and code review.
 
 ## Installation
 
